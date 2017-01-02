@@ -29,5 +29,6 @@ Stakater Roadmap
 * GoCD: Multi-Machine installation
 * Kubernetes
 * Centralized user authentication for different portals e.g. LDAP or build simple customized one
-* Jenkins Pipeline support
+* Jenkins pipeline support
+* Clustered setup support for infrastructure components e.g. elasticsearch, cassandra, etc. 
 * 
